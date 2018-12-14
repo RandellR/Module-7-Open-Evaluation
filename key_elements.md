@@ -28,9 +28,9 @@
 
 ### Who to involve:
 
-* Individuals: Nikolaus Kriegeskorte, Irene Hames, Tony Ross-Hellauer, Peter Kraker, Michael Markie, Sabina Alam, Elizabeth Gadd, William Gunn.
+* Individuals: Nikolaus Kriegeskorte, Irene Hames, Tony Ross-Hellauer, Peter Kraker, Michael Markie, Sabina Alam, Elizabeth Gadd, William Gunn, Randell Roach
 
-* Organisations: OpenAIRE, ScienceOpen, [Publons](https://publons.com/home/), [PubPeer](https://pubpeer.com/), [OpenUP](http://openup-h2020.eu/contact/), Altmetric, ImpactStory, BioMed Central, Frontiers, eLife, [PEERE](http://www.peere.org/).
+* Organisations: OpenAIRE, ScienceOpen, [Publons](https://publons.com/home/), [PubPeer](https://pubpeer.com/), [OpenUP](http://openup-h2020.eu/contact/), [TraceIndex](https://traceindex.com/), Altmetric, ImpactStory, BioMed Central, Frontiers, eLife, [PEERE](http://www.peere.org/).
 
 * Other: Editorial staff at journals offering traditional peer review.
 
@@ -51,6 +51,7 @@
 * [Open Review Toolkit](https://www.bitbybitbook.com/en/open-review/).
 
 * Hypothes.is
+
 
 **Research Articles and Reports**
 
@@ -166,6 +167,8 @@
 
 * [Snowball Metrics](https://www.snowballmetrics.com/), standardized research metrics.
 
+* [TraceIndex](https://traceidex.com), Reproducibility Ratings.
+
 ### Tasks:
 
 * Perform one open peer review on a paper of your choice at ScienceOpen, and get a DOI for it.
@@ -173,6 +176,8 @@
 * Integrate one peer review (pre- or post-publication) experience into Publons.
 
 * Use Publons journal list to check open peer review policies of journal(s) in your discipline.
+
+* Rate and review the reproducibilty of published works based on dataset and author accessability (https://traceindex.com)
 
 * Sign DORA in either a personal or business-level capacity.
 
